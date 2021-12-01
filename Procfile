@@ -1,1 +1,1 @@
-sh setup.sh && streamlit run diabete.py
+streamlit run diabete.py
