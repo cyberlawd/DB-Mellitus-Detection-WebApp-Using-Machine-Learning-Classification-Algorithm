@@ -1,5 +1,5 @@
 pandas
 scikit-learn
-pillow==7.0.0
-streamlit==0.67.0
+pillow
+streamlit
 numpy
